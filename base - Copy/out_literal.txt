@@ -1,0 +1,7 @@
+"%d & %d\n " 15
+"done" 21
+"b<<2 = %d & b>>5 = %d %d\n" 31
+"Enter the number of prime numbers required\n" 33
+"%d" 34
+"First %d prime numbers are :\n" 38
+"2\n" 39
